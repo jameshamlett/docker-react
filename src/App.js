@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React With The Justice League
+          Learn React With The X-Men, Not The Justice League
         </a>
       </header>
     </div>
